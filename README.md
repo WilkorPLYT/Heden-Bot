@@ -177,10 +177,6 @@
 ### Instalacja
 
 ```bash
-# Klonowanie repozytorium
-git clone https://github.com/WilkorPLYT/HedenCargoWeb.git
-cd HedenCargoWeb
-
 # Instalacja zależności
 npm install
 
@@ -191,35 +187,6 @@ cp .env.example .env
 # Uruchamianie
 npm start
 ```
-
-<br>
-
-## ⚙️ Konfiguracja
-
-### Plik `.env`
-
-```env
-# Discord
-DISCORD_TOKEN=twoj_token_bota
-APPLICATION_ID=id_aplikacji
-GUILD_ID=id_twojego_serwera
-OWNER_ID=twoje_id_discorda
-
-# MongoDB
-MONGODB_URI=mongodb+srv://user:password@cluster.mongodb.net/hedencargo
-
-# Konfiguracja
-PREFIX=$
-PORT=6969
-```
-
-### Plik `config.js`
-
-- **Kanały** - Nazwy kanałów Discord
-- **Role** - Role do zarządzania uprawnieniami
-- **Emoji** - Custom emoji serwera
-- **Streameraom** - Dane streamerów
-- **Uprawnienia** - Dostęp do funkcji
 
 <br>
 
