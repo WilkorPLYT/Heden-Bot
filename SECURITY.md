@@ -5,8 +5,11 @@
 Jeśli odkryjesz lukę w bezpieczeństwie, **nie otwieraj publicznego issue**.
 
 Skontaktuj się prywatnie:
-- **Discord:** 𝓓𝓻𝓦𝓲𝓵𝓴𝓸𝓻 (446740090757316608)
-- **Discord:** Daniel [Daniek.] (@daniekdan)
+
+| Developer | Discord | GitHub |
+|-----------|---------|--------|
+| **𝓓𝓻𝓦𝓲𝓵𝓴𝓸𝓻** | [𝓓𝓻𝓦𝓲𝓵𝓴𝓸𝓻](https://discord.com/users/446740090757316608) | [@WilkorPLYT](https://github.com/WilkorPLYT) |
+| **daniek.** | [daniek.](https://discord.com/users/640502766959329282) | [@daniekdan](https://github.com/daniekdan) |
 
 ## Best Practices
 

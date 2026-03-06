@@ -281,16 +281,10 @@ HedenCargoWeb/
 
 <br>
 
-[![Discord](https://img.shields.io/badge/Discord-𝓓𝓻𝓦𝓲𝓵𝓴𝓸𝓻-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/446740090757316608)
-[![GitHub](https://img.shields.io/badge/GitHub-WilkorPLYT-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WilkorPLYT)
-
-<br>
-
-| Platforma | Kontakt |
-|-----------|---------|
-| 💬 **Discord** | [𝓓𝓻𝓦𝓲𝓵𝓴𝓸𝓻](https://discord.com/users/446740090757316608) (ID: `446740090757316608`) |
-| 🐙 **GitHub** | [@WilkorPLYT](https://github.com/WilkorPLYT) |
-| 👨‍💻 **Co-Developer** | [@daniekdan](https://github.com/daniekdan) - Daniel [Daniek.] |
+| Developer | Discord | GitHub |
+|-----------|---------|--------|
+| **𝓓𝓻𝓦𝓲𝓵𝓴𝓸𝓻** | [Wilkor#446740090757316608](https://discord.com/users/446740090757316608) | [@WilkorPLYT](https://github.com/WilkorPLYT) |
+| **daniek.** | [daniek.#640502766959329282](https://discord.com/users/640502766959329282) | [@daniekdan](https://github.com/daniekdan) |
 
 </div>
 
@@ -317,17 +311,18 @@ Copyright © 2024-2026 HEDEN Cargo Sp. z o.o.
 
 <div align="center">
 
-[![Stworzony przez](https://img.shields.io/badge/Stworzony%20przez-WilkorPLYT%20%26%20Daniel-blueviolet?style=for-the-badge)](https://github.com/WilkorPLYT)
+[![Stworzony przez](https://img.shields.io/badge/Stworzony%20przez-WilkorPLYT%20%26%20daniekdan-blueviolet?style=for-the-badge)](https://github.com/WilkorPLYT)
 
 <br>
 
-Stworzony z ❤️ przez **𝓓𝓻𝓦𝓲𝓵𝓴𝓸𝓻** & **Daniel [Daniek.]** dla **HEDEN Cargo Sp. z o.o.**
+Stworzony z ❤️ przez **𝓓𝓻𝓦𝓲𝓵𝓪𝓭𝓸𝓻** & **daniek.** dla **HEDEN Cargo Sp. z o.o.**
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-WilkorPLYT-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WilkorPLYT)
-[![GitHub](https://img.shields.io/badge/GitHub-daniekdan-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/daniekdan)
-[![Discord](https://img.shields.io/badge/Discord-𝓓𝓻𝓦𝓲𝓵𝓴𝓸𝓻-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/446740090757316608)
+| Developer | Discord | GitHub |
+|-----------|---------|--------|
+| 𝓓𝓻𝓦𝓲𝓵𝓴𝓸𝓻 | [![Discord](https://img.shields.io/badge/Discord-Wilkor%23446740090757316608-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/446740090757316608) | [![GitHub](https://img.shields.io/badge/GitHub-WilkorPLYT-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/WilkorPLYT) |
+| daniek. | [![Discord](https://img.shields.io/badge/Discord-daniek.%23640502766959329282-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/640502766959329282) | [![GitHub](https://img.shields.io/badge/GitHub-daniekdan-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/daniekdan) |
 
 <br>
 
