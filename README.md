@@ -105,7 +105,7 @@
 
 <br><br>
 
-### 👥 Bot na Discord w akcji
+### 👥 Bot Discord w akcji
 
 <img src="screenshots/discord.png" alt="Discord bot" width="400">
 
