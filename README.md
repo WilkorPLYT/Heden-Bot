@@ -261,7 +261,11 @@ HedenCargoWeb/
 
 <div align="center">
 
-**MIT License - Wolne użytkowanie w projektach prywatnych i komercyjnych**
+🔒 **Closed Source - Wszelkie prawa zastrzeżone**
+
+Ten projekt jest własnością autora. Kod źródłowy nie jest publicznie dostępny.
+
+Nieautoryzowane kopiowanie, modyfikowanie lub dystrybucja jest zabroniona.
 
 Autor: WilkorPLYT & Daniel [Daniek.]
 Copyright © 2024-2026 HEDEN Cargo Sp. z o.o.
