@@ -220,12 +220,6 @@ HedenCargoWeb/
 
 <br>
 
-### 📞 Skontaktuj się po wycenę!
-
-</div>
-
-<br>
-
 ## 📞 Kontakt
 
 <div align="center">
