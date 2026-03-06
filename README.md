@@ -7,7 +7,7 @@
 [![MongoDB](https://img.shields.io/badge/MongoDB-4.4+-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
 [![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)](https://discord.com/users/446740090757316608)
-[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](#-licencja)
+[![License](https://img.shields.io/badge/License-Closed%20Source-red?style=for-the-badge)](#-licencja)
 
 <br>
 
@@ -173,20 +173,6 @@
 - MongoDB (Atlas lub lokalnie)
 - Token bota Discord
 - Discord.js 14+
-
-### Instalacja
-
-```bash
-# Instalacja zależności
-npm install
-
-# Konfiguracja
-cp .env.example .env
-# Edytuj .env i dodaj swoje tokeny
-
-# Uruchamianie
-npm start
-```
 
 <br>
 
