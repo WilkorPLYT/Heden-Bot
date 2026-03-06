@@ -97,14 +97,6 @@
 
 ## 📸 Screenshots
 
-<div align="center">
-
-### 📊 Panel Zarządzania Zleceniami
-
-<img src="screenshots/zlecenia.png" alt="Ticket system" width="700">
-
-<br><br>
-
 ### 👥 Bot Discord w akcji
 
 <img src="screenshots/discord.png" alt="Discord bot" width="400">
